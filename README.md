@@ -13,8 +13,9 @@ This project describes the whole process of building models for credit risk pred
 Link: https://github.com/HangTran104/WEB-SCRWLER
 The project aims to build a web scrawler using BeautifulSoup to collect data from webpage.
 
-# ETL process using data from scrawling process
+<h3 style = 'color:'black; text-align:left'>4. ETL process using data from scrawling process</h3> 
+Update later
 
 
-
-# Data visualization using Power BI
+<h3 style = 'color:'black; text-align:left'>5. Data visualization using Power BI</h3>  
+Update later
