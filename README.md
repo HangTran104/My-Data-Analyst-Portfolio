@@ -6,7 +6,9 @@ Link: https://github.com/HangTran104/RISK-MANAGEMENT-BASIC-PROCESS
 <br>
 To carry out this project, I download Credit Risk Dataset from Kaggle. The data is almost clean and ready for EDA processing. In the project, I try to visualize data and perform statistical analysis for the variables in different aspects such as univariable exploring, and multivariable exploring to decide which variable is the best choice for including in the input variable for prediction.
 
-<h3 style = 'color:black; text-align:left'>2. Build model for Credit Risk prediction - Project 2</h3> 
+<h3 style = 'color:black; text-align:left'>2. Build model for Credit Risk prediction - Project 2</h3>
+Link: https://github.com/HangTran104/BUILD-MODELLER-FOR-CREDIT-RISK-ACCESSMENT
+<br>
 This project describes the whole process of building models for credit risk prediction after EDA. In the first stages of the process, I try to load data, transform and standardize data. In the second stage, I perform split data into train and test datasets. In the next stage, a demo RandomForestClassifier was carried out to evaluate the accuracy of datasets and survey the important roles of features in the dataset. Finally, various kinds of models was built and evaluated based on their accuracy and time of performance.
 
 <h3 style = 'color:black; text-align:left'>3. Build Web Scrawler using Beautifulsoup and Selenium</h3> 
