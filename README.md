@@ -1,6 +1,13 @@
 <h1 style = 'color:darkblue; text-align:center'>My-Portfolio</h1>
 This page aims to navigate to my projects' page. These projects may include Data Visualization, EDA process, how to use statistics when performing statistical analysis, ETL process, and building models for predictions.
 
+<h3 style = 'color:black; text-align:left'>1. Data Mining - House Price dataset - Project 1</h3> 
+Link: https://github.com/HangTran104/House-Price-Prediction
+<br>
+<h3 style = 'color:black; text-align:left'>1. House Price Prediction - Project 1</h3> 
+Link: https://github.com/HangTran104/House-Price-Prediction
+<br>
+To carry out this project, I download Credit Risk Dataset from Kaggle. The data is almost clean and ready for EDA processing. In the project, I try to visualize data and perform statistical analysis for the variables in different aspects such as univariable exploring, and multivariable exploring to decide which variable is the best choice for including in the input variable for prediction.
 <h3 style = 'color:black; text-align:left'>1. EDA process for Credit risk management - Project 1</h3> 
 Link: https://github.com/HangTran104/RISK-MANAGEMENT-BASIC-PROCESS
 <br>
