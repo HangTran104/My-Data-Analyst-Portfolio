@@ -2,7 +2,7 @@
 This page aims to navigate to my projects' page. These projects may include Data Visualization, EDA process, how to use statistics when performing statistical analysis, ETL process, and building models for predictions.
 
 <h3 style = 'color:black; text-align:left'>1. Data Mining - House Price dataset</h3> 
-Link: https://github.com/HangTran104/House-Price-Prediction
+Link: https://github.com/HangTran104/House-Price-Prediction/blob/main/Buseness_and_DataUnderstanding.ipynb
 <br>
 <h3 style = 'color:black; text-align:left'>2. House Price Prediction Project</h3> 
 Skills: Pandas for Data cleaning and understanding, EDA process. Build Pipeline from transformation to modelling process. Models: Ridge, LinearRegression, RandomForestRegressor, SVM, XGBoost, DecisionTreeRegressor, Lasso, KNeighborsRegressor, GaussianProcessRegressor.
