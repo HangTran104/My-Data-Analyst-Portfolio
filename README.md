@@ -7,7 +7,7 @@ Link: https://github.com/HangTran104/House-Price-Prediction
 <h3 style = 'color:black; text-align:left'>2. House Price Prediction Project</h3> 
 Skills: Pandas for Data cleaning and understanding, EDA process. Build Pipeline from transformation to modelling process. Models: Ridge, LinearRegression, RandomForestRegressor, SVM, XGBoost, DecisionTreeRegressor, Lasso, KNeighborsRegressor, GaussianProcessRegressor.
 <br>
-This projects uses Ho Chi Minh House dataset to:
+This project uses Ho Chi Minh House dataset to:
 - Survey house price of Ho Chi Minh city using data visualizations and descriptive statistics.
 - Build model to predict house price based on house features based on regression models.
 Link: https://github.com/HangTran104/House-Price-Prediction
