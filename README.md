@@ -5,10 +5,17 @@ This page aims to navigate to my projects' page. These projects may include Data
 Link: https://github.com/HangTran104/House-Price-Prediction
 <br>
 <h3 style = 'color:black; text-align:left'>2. House Price Prediction Project</h3> 
+Skills: Pandas for Data cleaning and understanding, EDA process. Build Pipeline from transformation to modelling process. Models: Ridge, LinearRegression, RandomForestRegressor, SVM, XGBoost, DecisionTreeRegressor, Lasso, KNeighborsRegressor, GaussianProcessRegressor.
+<br>
+This projects uses Ho Chi Minh House dataset to:
+- Survey house price of Ho Chi Minh city using data visualizations and descriptive statistics.
+- Build model to predict house price based on house features based on regression models.
 Link: https://github.com/HangTran104/House-Price-Prediction
 <br>
 
 <h3 style = 'color:black; text-align:left'>3. Super Market Food Analysis - Customers Segmentation Project</h3> 
+Techniques: RFM and LRFMP coupled with KMeans Model for customers segmentation. Apriori for Association Rule Mining to determine the relationship between products. Pandas for Data cleaning and Explorary Data Analysis. Matplotlib and Seaborn for Visualization.
+<br>
 Customer segmentation and food supermarket analysis. This project use UK supermarket ecommerce dataset to clean data, perform EDA, build model for clustering supermarket customers into various groups with particular patterns. Business analysis the characteristics of these group to help the enterprise understand more about their customers and can plan appropriate marketing strategies.
 <br>
 Link: https://github.com/HangTran104/CustomerSegmentation_SuperMarketFoodProducts/blob/main/MallCustomers.ipynb
