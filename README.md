@@ -41,5 +41,6 @@ The project aims to build a web scrawler using BeautifulSoup to collect data fro
 Update later
 
 
-<h3 style = 'color:black; text-align:left'>5. Data visualization using Power BI</h3>  
-Update later
+<h3 style = 'color:black; text-align:left'>5. Data visualization using Tableau</h3>  
+This project uses real dataset to create Dashboard based on business purpose. You can down load Tableau file and dataset through following link:
+Link: https://github.com/HangTran104/DataVisualization
