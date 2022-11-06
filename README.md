@@ -7,6 +7,13 @@ Link: https://github.com/HangTran104/House-Price-Prediction
 <h3 style = 'color:black; text-align:left'>1. House Price Prediction - Project 1</h3> 
 Link: https://github.com/HangTran104/House-Price-Prediction
 <br>
+
+<h3 style = 'color:black; text-align:left'>1. House Price Prediction - Project 1</h3> 
+Customer segmentation and food supermarket analysis. This project use UK supermarket ecommerce dataset to clean data, perform EDA, build model for clustering supermarket customers into various groups with particular patterns. Business analysis the characteristics of these group to help the enterprise understand more about their customers and can plan appropriate marketing strategies.
+<br>
+Link: 
+
+
 To carry out this project, I download Credit Risk Dataset from Kaggle. The data is almost clean and ready for EDA processing. In the project, I try to visualize data and perform statistical analysis for the variables in different aspects such as univariable exploring, and multivariable exploring to decide which variable is the best choice for including in the input variable for prediction.
 <h3 style = 'color:black; text-align:left'>1. EDA process for Credit risk management - Project 1</h3> 
 Link: https://github.com/HangTran104/RISK-MANAGEMENT-BASIC-PROCESS
