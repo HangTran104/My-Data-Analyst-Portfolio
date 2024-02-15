@@ -1,7 +1,7 @@
 <h1>$${\color{darkgreen}My \space Porfolio}$$</h1>
 
 
-This page aims to navigate to my projects page. These projects may include Data Visualization, EDA process, how to use some basic statistics when performing statistical analysis, and building models for predictions.
+This page aims to navigate to my projects page. These projects describe Data Visualization techniques, the EDA process, how to use some basic statistics when performing statistical analysis, and building prediction models.
 <br>
 <br>
 
@@ -10,7 +10,7 @@ This page aims to navigate to my projects page. These projects may include Data 
   <img src="https://github.com/HangTran104/My-Data-Analyst-Portfolio/assets/90120107/2805e47f-ae8b-4838-aff1-51700ce4bbfb"/>
 </p>
 <br>
-Home loans are one of the frequentist demands of people. Understanding housing requirements is also important knowledge for bankers. This project uses the Ho Chi Minh House dataset to:
+Home loans are one of the frequent demands of people. Understanding housing requirements is also important knowledge for bankers. This project uses the Ho Chi Minh House dataset to:
 <br>
 - Cleaning dataset
 <br>
@@ -20,7 +20,7 @@ Home loans are one of the frequentist demands of people. Understanding housing r
 <br>
 Techniques: Pandas for Data cleaning and understanding, EDA process. Build Pipeline from transformation to modeling process. Models: Ridge, LinearRegression, RandomForestRegressor, SVM, XGBoost, DecisionTreeRegressor, Lasso, KNeighborsRegressor, GaussianProcessRegressor.
 <br>
-<h4 style = 'color:black; text-align:left'>a. House Price Cleasing Techniques</h4> 
+<h4 style = 'color:black; text-align:left'>a. House Price Cleaning Techniques</h4> 
 Link: https://github.com/HangTran104/House-Price-Prediction/blob/main/Buseness_and_DataUnderstanding.ipynb
 <br>
 <h4 style = 'color:black; text-align:left'>b. House Price Prediction Project</h4> 
@@ -59,7 +59,7 @@ Link: https://github.com/HangTran104/BUILD-MODELLER-FOR-CREDIT-RISK-ACCESSMENT
   <img src="https://github.com/HangTran104/My-Data-Analyst-Portfolio/assets/90120107/a85df79c-f84c-497f-81aa-0e225d1edaa4"/>
 </p>
 <br>
-In the real world of business, an enterprise can store its data internally for government audit purposes or retrieve the data when needed to analyze for historical status of operations surveys or forecast/predict revenue in the future. However, because business is a complicated process that has been impacted by different types of factors outside their operation activities. Therefore, sometimes many have to collect data outside of their source, including other websites, and or buy from other sources. Consequently, crawler tools play an important role in helping enterprises collect external sources of data for their survey projects.
+In the real world of business, an enterprise can store its data internally for government audit purposes or retrieve the data when needed to analyze for historical status of operations surveys or forecast/predict revenue in the future .However, because business is a complicated process that has been impacted by different types of factors outside their operation activities. Therefore, sometimes many have to collect data outside of their source, including other websites, and or buy from other sources. Consequently, crawler tools play an important role in helping enterprises collect external sources of data for their survey projects.
 <br>
 The project aims to build a simple web crawler using BeautifulSoup to collect data from a webpage.
 <br>
