@@ -8,13 +8,14 @@ Link: https://github.com/HangTran104/House-Price-Prediction/blob/main/Buseness_a
 <br>
 <br>
 <h3 style = 'color:black; text-align:left'>2. House Price Prediction Project</h3> 
-Skills: Pandas for Data cleaning and understanding, EDA process. Build Pipeline from transformation to modeling process. Models: Ridge, LinearRegression, RandomForestRegressor, SVM, XGBoost, DecisionTreeRegressor, Lasso, KNeighborsRegressor, GaussianProcessRegressor.
 <br>
-This project uses the Ho Chi Minh House dataset to:
+Home loans are one of the frequentist demands of people. Understanding housing requirements is also important knowledge for bankers. This project uses the Ho Chi Minh House dataset to:
 <br>
 - Survey house prices of Ho Chi Minh City using data visualizations and descriptive statistics.
 - <br>
 - Build a model to predict house prices based on house features based on regression models.
+<br>
+Techniques: Pandas for Data cleaning and understanding, EDA process. Build Pipeline from transformation to modeling process. Models: Ridge, LinearRegression, RandomForestRegressor, SVM, XGBoost, DecisionTreeRegressor, Lasso, KNeighborsRegressor, GaussianProcessRegressor.
 Link: https://github.com/HangTran104/House-Price-Prediction
 <br>
 <br>
@@ -41,5 +42,6 @@ Techniques: transformation techniques and regression models.
 <h3 style = 'color:black; text-align:left'>6. Build Web Scrawler using Beautifulsoup and Selenium</h3> 
 Link: https://github.com/HangTran104/WEB-SCRWLER
 <br>
-In the real world of business, an enterprise can store its data internally for government audit purposes or retrieve the data when needed to analyze for historical status of operations surveys or forecast/predict revenue in the future. However, because business is a complicated process that has been impacted by different types of factors from the economy, politics, and environments. Therefore, sometimes many have to collect data outside of other websites and or buy from other sources. Consequently, crawler tools play an important role in helping enterprises collect external sources of data for their survey projects.
+In the real world of business, an enterprise can store its data internally for government audit purposes or retrieve the data when needed to analyze for historical status of operations surveys or forecast/predict revenue in the future. However, because business is a complicated process that has been impacted by different types of factors outside their operation activities. Therefore, sometimes many have to collect data outside of their source, including other websites, and or buy from other sources. Consequently, crawler tools play an important role in helping enterprises collect external sources of data for their survey projects.
+<br>
 The project aims to build a simple web crawler using BeautifulSoup to collect data from a webpage.
