@@ -1,5 +1,5 @@
 <h1>$${\color{darkgreen}My \space Porfolio}$$</h1>
-![houseprice](https://github.com/HangTran104/My-Data-Analyst-Portfolio/assets/90120107/2805e47f-ae8b-4838-aff1-51700ce4bbfb)
+![houseprice](https://github.com/HangTran104/My-Data-Analyst-Portfolio/houseprice.jpeg)
 
 
 This page aims to navigate to my projects page. These projects may include Data Visualization, EDA process, how to use some basic statistics when performing statistical analysis, and building models for predictions.
