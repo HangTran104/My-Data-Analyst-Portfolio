@@ -6,7 +6,7 @@ This page aims to navigate to my projects page. These projects may include Data 
 <h3 style = 'color:black; text-align:left'>1. House Price Dataset </h3> 
 <br>
 <br>
-![Hình Ảnh minh họa](crawler.jpeg)
+![houseprice](https://github.com/HangTran104/My-Data-Analyst-Portfolio/assets/90120107/2805e47f-ae8b-4838-aff1-51700ce4bbfb)
 <br>
 
 <br>
