@@ -16,7 +16,7 @@ Home loans are one of the frequentist demands of people. Understanding housing r
 <br>
 - Survey house prices of Ho Chi Minh City using data visualizations and descriptive statistics.
 <br>
-- Build a model to predict house prices based on house features based on regression models.
+- Find the best model to predict house prices after choosing important house features.
 <br>
 Techniques: Pandas for Data cleaning and understanding, EDA process. Build Pipeline from transformation to modeling process. Models: Ridge, LinearRegression, RandomForestRegressor, SVM, XGBoost, DecisionTreeRegressor, Lasso, KNeighborsRegressor, GaussianProcessRegressor.
 <br>
@@ -33,7 +33,7 @@ Link: https://github.com/HangTran104/House-Price-Prediction
 </p>
 <br>
 <br>
-This project performs Customer segmentation and food supermarket analysis. This project uses the UK supermarket e-commerce dataset to clean data, perform EDA, and build a model for clustering supermarket customers into various groups with particular patterns. Business analysis of the characteristics of these groups to help the enterprise understand more about their customers and plan appropriate marketing strategies.
+This project performs Customer segmentation and food supermarket analysis. This uses the UK supermarket e-commerce dataset to clean data, perform EDA, and build a model for clustering supermarket customers into various groups with particular patterns. Business analysis of the characteristics of these groups to help the enterprise understand more about their customers and plan appropriate marketing strategies.
 <br>
 Techniques: RFM and LRFMP coupled with the KMeans Model for customer segmentation. Apriori for Association Rule Mining to determine the relationship between products. Pandas for Data Cleaning and Exploratory Data Analysis. Matplotlib and Seaborn for Visualization.
 <br>
