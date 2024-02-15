@@ -1,4 +1,4 @@
-<h1 style = 'color:darkblue'; 'text-align:center'>My-Portfolio</h1>
+<h1 style = "color:dark-blue"; 'text-align:center'>My-Portfolio</h1>
 This page aims to navigate to my projects page. These projects may include Data Visualization, EDA process, how to use some basic statistics when performing statistical analysis, the ETL process, and building models for predictions.
 <br>
 <br>
