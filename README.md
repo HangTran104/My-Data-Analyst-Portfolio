@@ -6,6 +6,9 @@ This page aims to navigate to my projects page. These projects may include Data 
 <h3 style = 'color:black; text-align:left'>1. House Price Dataset </h3> 
 <br>
 <br>
+![alt text](https://github.com/HangTran104/My-Data-Analyst-Portfolio/blob/main/crawler.jpeg)
+
+<br>
 Home loans are one of the frequentist demands of people. Understanding housing requirements is also important knowledge for bankers. This project uses the Ho Chi Minh House dataset to:
 <br>
 - Cleaning dataset
