@@ -1,4 +1,5 @@
-<span style = "color:dark-blue";>My-Portfolio</span>
+
+<span style="color: green"> My-Portfolio </span>
 This page aims to navigate to my projects page. These projects may include Data Visualization, EDA process, how to use some basic statistics when performing statistical analysis, and building models for predictions.
 <br>
 <br>
