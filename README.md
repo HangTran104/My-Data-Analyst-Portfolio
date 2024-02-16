@@ -59,7 +59,7 @@ Link: https://github.com/HangTran104/BUILD-MODELLER-FOR-CREDIT-RISK-ACCESSMENT
   <img src="https://github.com/HangTran104/My-Data-Analyst-Portfolio/assets/90120107/a85df79c-f84c-497f-81aa-0e225d1edaa4"/>
 </p>
 <br>
-In the real world of business, an enterprise can store its data internally for government audit purposes or retrieve the data when needed to analyze for historical status of operations surveys or forecast/predict revenue in the future .However, because business is a complicated process that has been impacted by different types of factors outside their operation activities. Therefore, sometimes many have to collect data outside of their source, including other websites, and or buy from other sources. Consequently, crawler tools play an important role in helping enterprises collect external sources of data for their survey projects.
+In the real world of business, an enterprise can store its data internally for government audit purposes or retrieve the data when needed to analyze for historical status of operations surveys or forecast/predict revenue in the future. However, because business is a complicated process that has been impacted by different types of factors outside their operation activities. Therefore, sometimes many have to collect data outside of their source, including other websites, and or buy from other sources. Consequently, crawler tools play an important role in helping enterprises collect external sources of data for their survey projects.
 <br>
 The project aims to build a simple web crawler using BeautifulSoup to collect data from a webpage.
 <br>
